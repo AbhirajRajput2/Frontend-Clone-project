@@ -1,8 +1,3 @@
-// const scroll = new LocomotiveScroll({
-//     el: document.querySelector('.main'),
-//     smooth: true
-// });
-
 
 let cont=document.querySelector('.center3box')
 let box=document.querySelector('.fixed-image')
