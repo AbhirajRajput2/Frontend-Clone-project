@@ -487,10 +487,7 @@ position: relative;
     display: none;
    pointer-events: none;
 }
-.center3box{
-position:relative;
-  z-index:100;
-}
+
 /*_______________Page4________________*/
 #page4{
   position: relative;
