@@ -485,6 +485,7 @@ position: relative;
     z-index: 99;
     border-radius: 10px;
     display: none;
+   pointer-events: auto;
 }
 
 /*_______________Page4________________*/
